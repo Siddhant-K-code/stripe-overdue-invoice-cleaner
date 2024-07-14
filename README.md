@@ -2,6 +2,15 @@
 
 Welcome to the Stripe Overdue Invoice Cleaner! This handy Python script helps you automatically void those pesky overdue invoices with ease, saving you time and effort.
 
+## ❓ Why Void Invoices?
+
+Voiding invoices is a crucial task for maintaining clean and accurate financial records. Here are some cases where voiding invoices can help:
+
+- **Avoiding Confusion**: Overdue invoices can clutter your financial records and lead to confusion during audits or bookkeeping.
+- **Preventing Unintentional Payments**: Voiding overdue invoices ensures that customers do not accidentally pay old invoices that are no longer valid.
+- **Improving Cash Flow Management**: By voiding overdue invoices, you can focus on collecting payments for current invoices, thereby improving your cash flow management.
+- **Maintaining Customer Relations**: Clearing up old, unresolved invoices can help maintain a good customer relationship by avoiding disputes over outdated charges.
+
 ## 🚀 Features
 
 - **Void Overdue Invoices**: Automatically voids overdue invoices based on their status and due date.
